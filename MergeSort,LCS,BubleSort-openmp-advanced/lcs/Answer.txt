@@ -1,0 +1,2 @@
+What speedup do you achieve with 16 threads?
+For 16 threads the speedup achieved is between 1-2.

@@ -1,0 +1,2 @@
+What speedup do you achieve with 16 threads?
+For the value of n upto 10000 the speedup received is upto 2 but for the n higher than that the speedup achieved is between 16 to 18.

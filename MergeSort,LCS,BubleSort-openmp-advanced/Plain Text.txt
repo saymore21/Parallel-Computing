@@ -1,0 +1,113 @@
+#include <stdio.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <iostream>
+#include <unistd.h>
+#include <chrono>
+#include <omp.h>
+using namespace std;
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+  void generateMergeSortData (int* arr, size_t n);
+  void checkMergeSortResult (int* arr, size_t n);
+
+#ifdef __cplusplus
+}
+#endif
+
+void mergesort(int *X, int n, int *tmp);
+void merge(int *X, int n, int *tmp);
+
+int main (int argc, char* argv[]) {
+
+  //forces openmp to create the threads beforehand
+  #pragma omp parallel
+  {
+    int fd = open (argv[0], O_RDONLY);
+    if (fd != -1) {
+      close (fd);
+    }
+    else {
+      std::cerr<<"something is amiss"<<std::endl;
+    }
+  }
+  
+  if (argc < 3) { std::cerr<<"usage: "<<argv[0]<<" <n> <nbthreads>"<<std::endl;
+    return -1;
+  }
+
+  int n = atoi(argv[1]);
+  
+  // get arr data
+  int * arr = new int [n];
+  int * tmp = new int [n];
+  int nbthreads = atoi(argv[2]);
+  generateMergeSortData (arr, n);
+  for(size_t i = 0; i < n; i++)
+  {
+    cout<<a[i]<<endl;
+  }
+  cout<<"exit arr for loop"<<endl;
+  //insert sorting code here.
+  using namespace std::chrono;
+  high_resolution_clock::time_point start = high_resolution_clock::now();
+  #pragma omp_set_num_threads(nbthreads);
+  //insert sorting code here.
+  #pragma omp parallel
+  {
+    #pragma omp single
+    mergesort(arr, n, tmp);
+  }
+  
+  checkMergeSortResult (arr, n);
+  
+  delete[] arr;
+
+  return 0;
+}
+
+void merge(int * X, int n, int * tmp) {
+  int i = 0;
+  int j = n/2;
+  int ti = 0;
+
+  while (i<n/2 && j<n) {
+    if (X[i] < X[j]) {
+      tmp[ti] = X[i];
+      ti++; i++;
+    } else {
+      tmp[ti] = X[j];
+      ti++; j++;
+    }
+  }
+  while (i<n/2) { /* finish up lower half */
+    tmp[ti] = X[i];
+    ti++; i++;
+  }
+  while (j<n) { /* finish up upper half */
+    tmp[ti] = X[j];
+    ti++; j++;
+  }
+  memcpy(X, tmp, n*sizeof(int));
+
+} // end of merge()
+
+void mergesort(int * X, int n, int * tmp)
+{
+  if (n < 2) return;
+
+  #pragma omp task firstprivate (X, n, tmp)
+  mergesort(X, n/2, tmp);
+
+  #pragma omp task firstprivate (X, n, tmp)
+  mergesort(X+(n/2), n-(n/2), tmp);
+
+  #pragma omp taskwait
+
+  /* merge sorted halves into sorted list */
+  merge(X, n, tmp);
+}
