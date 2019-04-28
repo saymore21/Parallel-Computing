@@ -1,0 +1,18 @@
+0.0620236
+double free or corruption (out)
+0.04369560.0679009
+0.07702140.088322
+0.0667349
+
+
+0.0745094
+0.0508688
+0.0399055
+[warn] Epoll ADD(4) on fd 58 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 0 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 53 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 47 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 50 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 56 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 59 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
+[warn] Epoll ADD(4) on fd 64 failed.  Old events were 0; read change was 0 (none); write change was 1 (add): Bad file descriptor
