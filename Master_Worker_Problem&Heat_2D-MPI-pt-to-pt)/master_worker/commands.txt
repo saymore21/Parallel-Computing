@@ -1,0 +1,533 @@
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ 
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+Success. Logging you in...
+Last login: Sun Nov 11 23:27:42 2018 from 10.38.137.185
+
+                     University Research Computing     
+	          Information and Technology Services  
+	       University of North Carolina at Charlotte
+
+  NOTICE 
+  "Use of the University's computing and electronic communication
+  resources is conditioned on compliance with the University's
+  Information Technology (IT) policies (Policy Statements 8, 10,
+  20, 66, 67, and 102).  Pursuant to those policies, the University
+  will take any steps necessary to safeguard the integrity of the
+  University's computing and electronic resources and to minimize
+  the risks to both those resources and the end users of those
+  resources.  Such safeguarding includes monitoring data traffic
+  to detect anomalous network activity, as well as accessing,
+  retrieving, reading, and/or disclosing data communications when
+  there is reasonable cause to suspect a violation of applicable
+  University policy or criminal law, or when monitoring is
+  otherwise required or permitted by law."
+ 
+
+============================================================================
+                     Red Hat Enterprise Linux 7.2
+============================================================================
+
+[smore7@mba-i1 ~]$ make plot
+make: *** No rule to make target `plot'.  Stop.
+[smore7@mba-i1 ~]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd gitrepo-3145
+-bash: cd: gitrepo-3145: No such file or directory
+[smore7@mba-i1 gitrepo-3145]$ packet_write_wait: Connection to 10.16.115.38 port 22: Broken pipe
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+ssh: Could not resolve hostname mamba.urc.uncc.edu: Temporary failure in name resolution
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+ssh: Could not resolve hostname mamba.urc.uncc.edu: Temporary failure in name resolution
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+Connected.
+Password: 
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1    
+Success. Logging you in...
+Last login: Mon Nov 12 12:14:36 2018 from 10.38.137.176
+
+                     University Research Computing     
+	          Information and Technology Services  
+	       University of North Carolina at Charlotte
+
+  NOTICE 
+  "Use of the University's computing and electronic communication
+  resources is conditioned on compliance with the University's
+  Information Technology (IT) policies (Policy Statements 8, 10,
+  20, 66, 67, and 102).  Pursuant to those policies, the University
+  will take any steps necessary to safeguard the integrity of the
+  University's computing and electronic resources and to minimize
+  the risks to both those resources and the end users of those
+  resources.  Such safeguarding includes monitoring data traffic
+  to detect anomalous network activity, as well as accessing,
+  retrieving, reading, and/or disclosing data communications when
+  there is reasonable cause to suspect a violation of applicable
+  University policy or criminal law, or when monitoring is
+  otherwise required or permitted by law."
+ 
+
+============================================================================
+                     Red Hat Enterprise Linux 7.2
+============================================================================
+
+[smore7@mba-i1 ~]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd assignment-mpi--b
+-bash: cd: assignment-mpi--b: No such file or directory
+[smore7@mba-i1 gitrepo-3145]$ cd assignment-mpi-basic
+[smore7@mba-i1 assignment-mpi-basic]$ cd matvec/
+[smore7@mba-i1 matvec]$ git add .
+[smore7@mba-i1 matvec]$ packet_write_wait: Connection to 10.16.115.38 port 22: Broken pipe
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+Success. Logging you in...
+Last login: Mon Nov 12 12:42:19 2018 from 10.38.137.176
+
+                     University Research Computing     
+	          Information and Technology Services  
+	       University of North Carolina at Charlotte
+
+  NOTICE 
+  "Use of the University's computing and electronic communication
+  resources is conditioned on compliance with the University's
+  Information Technology (IT) policies (Policy Statements 8, 10,
+  20, 66, 67, and 102).  Pursuant to those policies, the University
+  will take any steps necessary to safeguard the integrity of the
+  University's computing and electronic resources and to minimize
+  the risks to both those resources and the end users of those
+  resources.  Such safeguarding includes monitoring data traffic
+  to detect anomalous network activity, as well as accessing,
+  retrieving, reading, and/or disclosing data communications when
+  there is reasonable cause to suspect a violation of applicable
+  University policy or criminal law, or when monitoring is
+  otherwise required or permitted by law."
+ 
+
+============================================================================
+                     Red Hat Enterprise Linux 7.2
+============================================================================
+
+[smore7@mba-i1 ~]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd assignment-mpi-basic
+[smore7@mba-i1 assignment-mpi-basic]$ cd matvec/
+[smore7@mba-i1 matvec]$ git add .
+[smore7@mba-i1 matvec]$ git commit -m "Commit"
+[master 2a7834a] Commit
+ Committer: Sayali Kishor More <smore7@mba-i1.uncc.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 340 insertions(+)
+ rewrite assignment-mpi-basic/matvec/mpi_matmul (96%)
+ create mode 100644 assignment-mpi-basic/matvec/plots/time_table.aux
+ create mode 100644 assignment-mpi-basic/matvec/plots/time_table.log
+ create mode 100644 assignment-mpi-basic/matvec/plots/time_table.out
+ create mode 100644 assignment-mpi-basic/matvec/plots/time_table.tex
+[smore7@mba-i1 matvec]$ git push
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+Counting objects: 13, done.
+Delta compression using up to 6 threads.
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 52.84 KiB | 0 bytes/s, done.
+Total 9 (delta 3), reused 0 (delta 0)
+To smore7@mamba.urc.uncc.edu:gitrepo-3145.git
+   48251e0..2a7834a  master -> master
+[smore7@mba-i1 matvec]$ git pull
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+remote: Counting objects: 11, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 4), reused 0 (delta 0)
+Unpacking objects: 100% (6/6), done.
+From mamba.urc.uncc.edu:gitrepo-3145
+   2a7834a..9836a88  master     -> origin/master
+Updating 2a7834a..9836a88
+Fast-forward
+ assignment-mpi-basic/matvec/mpi_matmul     | Bin 113433 -> 128120 bytes
+ assignment-mpi-basic/matvec/mpi_matmul.cpp |   4 ++--
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[smore7@mba-i1 matvec]$ make m
+main            main.cpp        mpi_matmul      mpi_matmul.cpp
+[smore7@mba-i1 matvec]$ make mpi_matmul
+mpicxx -std=c++11    mpi_matmul.cpp   -o mpi_matmul
+[smore7@mba-i1 matvec]$ make test
+./test.sh
+||||||||||||
+[smore7@mba-i1 matvec]$ make bench
+./queue.sh
+usage: qdel [{ -a | -c | -p | -t | -W delay | -m message}] [-b retry_seconds] [<JOBID>[<JOBID>]|'all'|'ALL']...
+       -a -c, -m, -p, -t, and -W are mutually exclusive
+starting time is Mon Nov 12 12:58:51 EST 2018
+68205.mba-m1.uncc.edu
+68206.mba-m1.uncc.edu
+68207.mba-m1.uncc.edu
+68208.mba-m1.uncc.edu
+68209.mba-m1.uncc.edu
+ending time is Mon Nov 12 12:58:51 EST 2018
+[smore7@mba-i1 matvec]$ qstat
+Job ID                    Name             User            Time Use S Queue
+------------------------- ---------------- --------------- -------- - -----
+68162.mba-m1.uncc.edu      run_numint.sh    bstanwoo        04:12:57 C mba_cpu        
+68163.mba-m1.uncc.edu      run_numint.sh    bstanwoo        00:26:55 R mba_cpu        
+68164.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68170.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68171.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68205.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mamba          
+68206.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mamba          
+68207.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mamba          
+68208.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mamba          
+68209.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mamba          
+[smore7@mba-i1 matvec]$ qstat
+Job ID                    Name             User            Time Use S Queue
+------------------------- ---------------- --------------- -------- - -----
+68162.mba-m1.uncc.edu      run_numint.sh    bstanwoo        04:12:57 C mba_cpu        
+68163.mba-m1.uncc.edu      run_numint.sh    bstanwoo        00:44:08 R mba_cpu        
+68164.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68170.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68171.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68205.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 R mba_cpu        
+68206.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+68207.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+68208.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+68209.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+[smore7@mba-i1 matvec]$ make bench
+./queue.sh
+starting time is Mon Nov 12 12:59:19 EST 2018
+68210.mba-m1.uncc.edu
+68211.mba-m1.uncc.edu
+68212.mba-m1.uncc.edu
+68213.mba-m1.uncc.edu
+68214.mba-m1.uncc.edu
+ending time is Mon Nov 12 12:59:20 EST 2018
+[smore7@mba-i1 matvec]$ qstat
+Job ID                    Name             User            Time Use S Queue
+------------------------- ---------------- --------------- -------- - -----
+68162.mba-m1.uncc.edu      run_numint.sh    bstanwoo        04:12:57 C mba_cpu        
+68163.mba-m1.uncc.edu      run_numint.sh    bstanwoo        00:44:08 R mba_cpu        
+68164.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68170.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68171.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68205.mba-m1.uncc.edu      run_matmul.sh    smore7          00:00:22 C mba_cpu        
+68206.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 C mba_cpu        
+68207.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 C mba_cpu        
+68208.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 C mba_cpu        
+68209.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 C mba_cpu        
+68210.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 R mba_cpu        
+68211.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+68212.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+68213.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+68214.mba-m1.uncc.edu      run_matmul.sh    smore7                 0 Q mba_cpu        
+[smore7@mba-i1 matvec]$ lpacket_write_wait: Connection to 10.16.115.38 port 22: Broken pipe
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+ssh: connect to host mamba.urc.uncc.edu port 22: Network is unreachable
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+^[[A^[[A^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+^[[A^[[A
+
+Success. Logging you in...
+Last login: Mon Nov 12 12:43:23 2018 from 10.38.137.176
+
+                     University Research Computing     
+	          Information and Technology Services  
+	       University of North Carolina at Charlotte
+
+  NOTICE 
+  "Use of the University's computing and electronic communication
+  resources is conditioned on compliance with the University's
+  Information Technology (IT) policies (Policy Statements 8, 10,
+  20, 66, 67, and 102).  Pursuant to those policies, the University
+  will take any steps necessary to safeguard the integrity of the
+  University's computing and electronic resources and to minimize
+  the risks to both those resources and the end users of those
+  resources.  Such safeguarding includes monitoring data traffic
+  to detect anomalous network activity, as well as accessing,
+  retrieving, reading, and/or disclosing data communications when
+  there is reasonable cause to suspect a violation of applicable
+  University policy or criminal law, or when monitoring is
+  otherwise required or permitted by law."
+ 
+
+============================================================================
+                     Red Hat Enterprise Linux 7.2
+============================================================================
+
+^[[A^[[A
+
+[smore7@mba-i1 ~]$ make bench
+make: *** No rule to make target `bench'.  Stop.
+[smore7@mba-i1 ~]$ 
+[smore7@mba-i1 ~]$ packet_write_wait: Connection to 10.16.115.38 port 22: Broken pipe
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+ssh: Could not resolve hostname mamba.urc.uncc.edu: Temporary failure in name resolution
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ ssh smore7@mamba.urc.uncc.edu
+Connected.
+Password: 
+Duo two-factor login for smore7
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-4906
+ 2. Phone call to XXX-XXX-4906
+ 3. SMS passcodes to XXX-XXX-4906 (next code starts with: 2)
+
+Passcode or option (1-3): 1
+Success. Logging you in...
+Last login: Mon Nov 12 13:08:55 2018 from 10.38.137.176
+
+                     University Research Computing     
+	          Information and Technology Services  
+	       University of North Carolina at Charlotte
+
+  NOTICE 
+  "Use of the University's computing and electronic communication
+  resources is conditioned on compliance with the University's
+  Information Technology (IT) policies (Policy Statements 8, 10,
+  20, 66, 67, and 102).  Pursuant to those policies, the University
+  will take any steps necessary to safeguard the integrity of the
+  University's computing and electronic resources and to minimize
+  the risks to both those resources and the end users of those
+  resources.  Such safeguarding includes monitoring data traffic
+  to detect anomalous network activity, as well as accessing,
+  retrieving, reading, and/or disclosing data communications when
+  there is reasonable cause to suspect a violation of applicable
+  University policy or criminal law, or when monitoring is
+  otherwise required or permitted by law."
+ 
+
+============================================================================
+                     Red Hat Enterprise Linux 7.2
+============================================================================
+
+[smore7@mba-i1 ~]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ cd gitrepo-3145
+[smore7@mba-i1 gitrepo-3145]$ qstat
+Job ID                    Name             User            Time Use S Queue
+------------------------- ---------------- --------------- -------- - -----
+68163.mba-m1.uncc.edu      run_numint.sh    bstanwoo        05:03:52 C mba_cpu        
+68164.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 R mba_cpu        
+68170.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+68171.mba-m1.uncc.edu      run_numint.sh    bstanwoo               0 Q mba_cpu        
+[smore7@mba-i1 gitrepo-3145]$ packet_write_wait: Connection to 10.16.115.38 port 22: Broken pipe
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-basic/matvec$ cd ../../
+student@ParCo:~/smore7/gitrepo-3145$ cd as
+asignment1/                 assignment-mpi-pt-to-pt/
+assignment-mpi-basic/       assignment-openmp-advanced/
+assignment-mpi-basic (2)/   
+student@ParCo:~/smore7/gitrepo-3145$ cd as
+asignment1/                 assignment-mpi-pt-to-pt/
+assignment-mpi-basic/       assignment-openmp-advanced/
+assignment-mpi-basic (2)/   
+student@ParCo:~/smore7/gitrepo-3145$ cd assignment-mpi-pt-to-pt/
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt$ ls
+approx      assignment-mpi-pt-to-pt.pdf  master_worker  pingpong
+approx.cpp  heat                         params.sh
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt$ cd master_worker/
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ ls
+cases.txt       mpi_master_worker      queue.sh       test.sh
+libfunctions.a  mpi_master_worker.cpp  run_numint.sh
+Makefile        plot.sh                table.sh
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ asy^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ sudo -i
+[sudo] password for student: 
+root@ParCo:~# apt install astyle
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following NEW packages will be installed:
+  astyle
+0 upgraded, 1 newly installed, 0 to remove and 71 not upgraded.
+Need to get 199 kB of archives.
+After this operation, 774 kB of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu bionic/universe amd64 astyle amd64 3.1-1ubuntu2 [199 kB]
+Fetched 199 kB in 1s (348 kB/s)
+Selecting previously unselected package astyle.
+(Reading database ... 193305 files and directories currently installed.)
+Preparing to unpack .../astyle_3.1-1ubuntu2_amd64.deb ...
+Unpacking astyle (3.1-1ubuntu2) ...
+Processing triggers for doc-base (0.10.8) ...
+Processing 1 added doc-base file...
+Processing triggers for man-db (2.8.3-2) ...
+Setting up astyle (3.1-1ubuntu2) ...
+root@ParCo:~# logout
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ ls
+cases.txt       mpi_master_worker      queue.sh       test.sh
+libfunctions.a  mpi_master_worker.cpp  run_numint.sh
+Makefile        plot.sh                table.sh
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ astyle mpi_master_worker.cpp 
+Formatted  /home/student/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker/mpi_master_worker.cpp
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ mousepad mpi_master_worker.cpp
+
+(mousepad:7195): Gtk-WARNING **: 15:03:42.946: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7195): Gtk-WARNING **: 15:03:42.946: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7195): Gtk-WARNING **: 15:03:42.947: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7195): Gtk-WARNING **: 15:03:42.947: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7195): Gtk-WARNING **: 15:03:42.947: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+^Z
+[1]+  Stopped                 mousepad mpi_master_worker.cpp
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ bg
+[1]+ mousepad mpi_master_worker.cpp &
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ astyle mpi_master_worker.cpp ^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ ssh smore7@mamba.urc.uncc.edu^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ ^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ ls
+cases.txt       mpi_master_worker           plot.sh        table.sh
+libfunctions.a  mpi_master_worker.cpp       queue.sh       test.sh
+Makefile        mpi_master_worker.cpp.orig  run_numint.sh
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ mpirun -n 2 ./mpi_master_worker
+terminate called after throwing an instance of 'std::logic_error'
+terminate called after throwing an instance of '  what():  basic_string::_M_construct null not validstd::logic_error
+'
+  what():  [ParCo:07214] *** Process received signal ***
+basic_string::_M_construct null not valid
+[ParCo:07214] Signal: Aborted (6)
+[ParCo:07214] Signal code:  (-6)
+[ParCo:07213] *** Process received signal ***
+[ParCo:07213] Signal: Aborted (6)
+[ParCo:07213] Signal code:  (-6)
+[ParCo:07213] [ 0] /lib/x86_64-linux-gnu/libpthread.so.0(+0x12890)[0x7f9a150e3890]
+[ParCo:07213] [ 1] /lib/x86_64-linux-gnu/libc.so.6[ParCo:07214] [ 0] /lib/x86_64-linux-gnu/libpthread.so.0(+0x12890)[0x7eff09f52890]
+[ParCo:07214] [ 1] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0xc7)[0x7eff09b8de97]
+[ParCo:07214] [ 2] /lib/x86_64-linux-gnu/libc.so.6(abort+0x141)[0x7eff09b8f801]
+[ParCo:07214] [ 3] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x8c8b7)[0x7eff0a7a18b7]
+[ParCo:07214] [ 4] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x92a06)[0x7eff0a7a7a06]
+[ParCo:07214] [ 5] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x92a41)[0x7eff0a7a7a41]
+[ParCo:07214] [ 6] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x92c74)[0x7eff0a7a7c74]
+[ParCo:07214] [ 7] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x8e6f7)[0x7eff0a7a36f7]
+[ParCo:07214] [ 8] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(gsignal+0xc7)[0x7f9a14d1ee97]
+[ParCo:07213] [ 2] /lib/x86_64-linux-gnu/libc.so.6(_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag(+0xabortcd+0x)141[0x)[0x7f9a14d20801]
+7eff0a83c40d]
+[ParCo:07214] [ParCo:07213] [ 3] /usr/lib/x86_64-linux-gnu/libstdc++.so.6[ 9] ./mpi_master_worker(+0xbe44)[0x56257bb84e44]
+[ParCo:07214] [10] /lib/x86_64-linux-gnu/libc.so.6(+0x8c8b7)[0x(__libc_start_main+0x7f9a159328b7]
+[ParCo:07213] [ 4] /usr/lib/x86_64-linux-gnu/libstdc++.so.6e7)[0x7eff09b70b97]
+[ParCo:07214] [11] ./mpi_master_worker(+0xbcca)[0x56257bb84cca]
+[ParCo:07214] *** End of error message ***
+(+0x92a06)[0x7f9a15938a06]
+[ParCo:07213] [ 5] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x92a41)[0x7f9a15938a41]
+[ParCo:07213] [ 6] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x92c74)[0x7f9a15938c74]
+[ParCo:07213] [ 7] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(+0x8e6f7)[0x7f9a159346f7]
+[ParCo:07213] [ 8] /usr/lib/x86_64-linux-gnu/libstdc++.so.6(_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag+0xcd)[0x7f9a159cd40d]
+[ParCo:07213] [ 9] ./mpi_master_worker(+0xbe44)[0x558475276e44]
+[ParCo:07213] [10] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xe7)[0x7f9a14d01b97]
+[ParCo:07213] [11] ./mpi_master_worker(+0xbcca)[0x558475276cca]
+[ParCo:07213] *** End of error message ***
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node ParCo exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ ^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ astyle mpi_master_worker.cpp 
+Formatted  /home/student/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker/mpi_master_worker.cpp
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ mousepad mpi_master_worker.cpp
+
+(mousepad:7398): Gtk-WARNING **: 15:55:38.435: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7398): Gtk-WARNING **: 15:55:38.438: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7398): Gtk-WARNING **: 15:55:38.438: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7398): Gtk-WARNING **: 15:55:38.438: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:7398): Gtk-WARNING **: 15:55:38.438: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+^[[A^[[A^C
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ astyle mpi_master_worker.cpp 
+Formatted  /home/student/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker/mpi_master_worker.cpp
+student@ParCo:~/smore7/gitrepo-3145/assignment-mpi-pt-to-pt/master_worker$ 
